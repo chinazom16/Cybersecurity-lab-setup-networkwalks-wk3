@@ -1,4 +1,4 @@
-Password Cracking Using John the Ripper and Network Pulse
+Password Cracking Using John the Ripper and Networkwalks 
 
 1. Introduction
 
@@ -50,7 +50,7 @@ Evidence 1: John the Ripper
 
 Screenshot showing the John the Ripper practical exercise.
 
-Evidence 2: Network Pulse
+Evidence 2: Networkwalks 
 
 Screenshot showing the Network Pulse exercise.
 
