@@ -45,18 +45,22 @@ Captured screenshots of the practical activities and organized the evidence for 
 This section contains screenshots documenting the practical exercises, tools used, and results obtained.
 
 Evidence 1: John the Ripper
-
-
-
+![John the Ripper image 1](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-19%20105631.png)
+![John the Ripper image 2](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-19%20105648.png)
+![John the Ripper image 3](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-19%20105609.png)
 Screenshot showing the John the Ripper practical exercise.
 
 Evidence 2: Networkwalks 
-
-Screenshot showing the Network Pulse exercise.
+![Networkwalks image 1](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20162016.png)
+![Networkwalks image 2](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20161947.png)
+![Networkwalks image 3](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20162514.png)
+Screenshot showing the Networkwalks exercise.
 
 Evidence 3: Exercise Results
-
-Screenshots showing the results obtained during the password-cracking activities.
+![John the Ripper2 image 1](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20165032.png)
+![John the Ripper2 image 2](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20165053.png)
+![John the Ripper3 image 3](https://raw.githubusercontent.com/chinazom16/Cybersecurity-lab-setup-networkwalks-wk3/refs/heads/main/Screenshot%202026-11-20%20164958.png)
+Screenshots showing the results obtained during the 3rd password-cracking activity using John the Ripper.
 
 6. Key Takeaways
 
